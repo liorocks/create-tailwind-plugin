@@ -1,0 +1,4 @@
+src/templates/*.js
+src/templates/*.ejs
+coverage
+build
